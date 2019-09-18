@@ -2,7 +2,7 @@
 
 Part C:
 
-1: there is tape all over the placee \n
+1: there is tape all over the placee /n
 2: The button order skips over a number each time
 3: Not all buttons are in a row
 
