@@ -10,7 +10,7 @@ Part C:
 
 
 
-![project_Gif_Aaron](https://github.com/AaronPingo96/Human-Computer-Interaction/blob/master/hw1.Pingo.gif)
+![project_Gif_Aaron](https://github.com/AaronPingo96/hw1.2.Pingo/blob/master/hw1.2.Pingo.gif)
 
 
 
