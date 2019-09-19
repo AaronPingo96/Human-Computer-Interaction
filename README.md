@@ -16,8 +16,7 @@ Part C:
 3: Not all buttons are in a row
 
 
-sketch
-
+sketch: https://github.com/AaronPingo96/hw1.2.Pingo/blob/master/hw1.2.Pingo.sketch.jpg
 
 
 ![project_Gif_Aaron](https://github.com/AaronPingo96/hw1.2.Pingo/blob/master/hw1.2.Pingo.gif)
