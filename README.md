@@ -9,9 +9,6 @@ link to github: https://github.com/AaronPingo96/hw1.2.Pingo
 
 
 
-![Original Interface](https://media.giphy.com/media/cKc9OKrsUHYWIT0jEF/giphy.gif)
-
-
 Part C:
 
 1: there is tape all over the placee 
