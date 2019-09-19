@@ -6,6 +6,9 @@ link to readme file: https://aaronpingo96.github.io/hw1.2.Pingo/
 link to github: https://github.com/AaronPingo96/hw1.2.Pingo
 
 ![hw1.elevator.gif](https://raw.githubusercontent.com/AaronPingo96/hw1.2.Pingo/master/hw1.elevator.gif)
+
+
+
 ![Original Interface](https://media.giphy.com/media/cKc9OKrsUHYWIT0jEF/giphy.gif)
 
 
