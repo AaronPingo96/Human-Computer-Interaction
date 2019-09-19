@@ -1,4 +1,4 @@
-![Elevator_Gif_Aaron](https://github.com/AaronPingo96/Human-Computer-Interaction/blob/master/hw1.elevator.gif)
+![Elevator_Gif_Aaron](https://imgur.com/a/FcmBkb9)
 
 https://github.com/AaronPingo96/Human-Computer-Interaction/blob/master/hw1.elevator.gif
 
