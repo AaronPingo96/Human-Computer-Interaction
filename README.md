@@ -1,4 +1,8 @@
-https://aaronpingo96.github.io/hw1.2.Pingo/
+
+
+
+readme file: https://aaronpingo96.github.io/hw1.2.Pingo/
+
 
 ![Elevator_Gif_Aaron](https://github.com/AaronPingo96/Human-Computer-Interaction/blob/master/hw1.elevator.gif)
 
