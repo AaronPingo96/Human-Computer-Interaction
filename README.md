@@ -14,3 +14,4 @@ Part C:
 
 https://github.com/AaronPingo96/Human-Computer-Interaction/blob/master/hw1.Pingo.gif
 
+[Video]
