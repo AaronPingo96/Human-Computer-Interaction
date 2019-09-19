@@ -26,6 +26,35 @@ sketch: https://github.com/AaronPingo96/hw1.2.Pingo/blob/master/hw1.2.Pingo.sket
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import g4p_controls.*;
 
 GCustomSlider slider;
