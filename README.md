@@ -18,6 +18,15 @@ Part C:
 
 sketch: https://github.com/AaronPingo96/hw1.2.Pingo/blob/master/hw1.2.Pingo.sketch.jpg
 
+Part B:
+
+
+
+-The elevator supports the user learning the interface by making it a standard interface that is found on most elevators and by using pictures and numbers
+
+-The elevator provides feedback by lighting up around the button and showing which floor you are on above the panel.
+
+- One improvement would be to put all the numbers in order so that it is that much faster to find the button you want. Another would be adding a slider to to show where you are so it is easier to see how much further you have to go
 
 ![project_Gif_Aaron](https://github.com/AaronPingo96/hw1.2.Pingo/blob/master/hw1.2.Pingo.gif)
 
